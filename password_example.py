@@ -16,7 +16,6 @@ def main():
 
 
 def check_password(password):
-    """Check if password is valid"""
     return password == "12345678"
 
 
